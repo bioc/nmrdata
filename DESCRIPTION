@@ -1,7 +1,7 @@
 Package: nmrdata
 Type: Package
 Title: Example 1d NMR Data for Metabolic Profiling
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     person(given = "Torben",
            family = "Kimhofer",
